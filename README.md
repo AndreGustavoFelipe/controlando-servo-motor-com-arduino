@@ -3,4 +3,4 @@ Este projeto tem o intuito de controlar um servo motor utilizando um potenciôme
 
 Tecnologias utilizadas:
 
--C++
+- C++
